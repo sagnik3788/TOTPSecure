@@ -1,0 +1,17 @@
+Totpsecure/
+│
+├── background/
+│   └── background.ts
+│
+├── popup/
+│   ├── popup.html
+│   ├── popup.ts
+│   ├── popup.css (optional)
+│   └── popup.js (compiled)
+│
+├── assets/ 
+│
+├── manifest.json
+├── tsconfig.json
+├── package.json
+└── README.md
